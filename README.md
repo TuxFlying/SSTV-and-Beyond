@@ -22,6 +22,16 @@ There were two successfull tests of the current hardware and software during two
 * transmit Callsign in CW on 144,500mhz
 * transmit APRS Position and Telemetry on 144,800mhz
 
+### Tested software setup
+
+Using Arduino IDE v2.3.7:
+
+* Boards manager search for esp32, select entry from Espressif (v3.1.1)
+* Lib manager: Adafruit GFX (v1.12.1)
+* Lib manager: Tinygpsplus by Mikal Hart (V1.0.3)
+* Lib manager: DHT sensor lib By Adafruit(v1.4.6)
+
+
 ### Hardware
 
 I made a simple PCB to connect everything together, but you can also just use wires or perf baord like prototype PCBs.
