@@ -1,11 +1,11 @@
 // user constants
-#define CALLSIGN "DL0KA-11"
-#define SSTV_QSL "PLS QSL via https://g-fliegt.de"
+#define CALLSIGN "DK0IZ-11"
+#define SSTV_QSL "PLS QSL via https://DK0IZ.de"
 #define SSTV_BOOTDELAY 120
-#define APRS_CALL "DL0KA"
+#define APRS_CALL "DK0IZ"
 #define APRS_SSID 11
-#define APRS_STATUS "Distrikt G Ballon - https://g-fliegt.de/rapport"
-#define APRS_MSG "https://app.aprs.one/c/DL0KA-11"
+#define APRS_STATUS "Distrikt M Ballon - https://DK0IZ.de/rapport"
+#define APRS_MSG "https://app.aprs.one/c/DK0IZ-11"
 #define APRS_SYM_TABLE "/"
 #define APRS_SYM_CODE "O"
 #define APRS_TLM_LABELS "PARM.ATemp,AHum,vRate,Sats,Alt,Camera,SSTV"
